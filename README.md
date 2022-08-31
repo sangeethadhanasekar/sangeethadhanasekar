@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sangeethadhanasekar
-- 🌱 I’m currently learning python
+- 
 
 <!---
 sangeethadhanasekar/sangeethadhanasekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
