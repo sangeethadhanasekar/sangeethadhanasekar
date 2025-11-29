@@ -1,5 +1,5 @@
 👋 Hola!, I’m Sangeetha  
-- 💻 Newbie dev exploring Python, Java & C  
+- 💻 Newbie dev exploring Python
 - 🧩 Breaking stuff just to see how it works  
 - 🔍 Trying to decode where I belong in the tech universe 
 <!---
